@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey fellow coder! I am interested in tech, and am happy to be a part of this beautiful open source community. I keep exploring different domains in tech. <br>
+Hey fellow coder! I am interested in tech, and am happy to be a part of this beautiful open source community. I enjoy doing Competitive Programming but I keep exploring different domains in tech too. <br>
 I am interested in Web Scraping and Data Analysis. Currently I am also exploring the backend by learning Django! <br>
 There are few beginner level projects for the same and am working towards creating projects for real time implementation. <br>
 
