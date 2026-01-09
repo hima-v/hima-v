@@ -159,7 +159,6 @@ Evaluated NIST-shortlisted PQC algorithms (Falcon, Kyber, Dilithium, Sphincs) fo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hima-verma-618182225)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hverma@ucdavis.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pgm.kjsieit.com)
 
 📧 **hverma@ucdavis.edu**  
 🔗 **LinkedIn:** [linkedin.com/in/hima-verma](https://linkedin.com/in/hima-verma-618182225)
