@@ -107,6 +107,44 @@ Statistical arbitrage • Algorithmic trading • Time-series forecasting • Ri
 
 ---
 
+## 🔬 Research & Academic Focus
+
+**Post-Quantum Cryptography Security Analysis** *(Apr 2023 - Jun 2024)*  
+Evaluated NIST-shortlisted PQC algorithms (Falcon, Kyber, Dilithium, Sphincs) for quantum-resistant systems. Analyzed computational complexity across lattice-based, hash-based, and code-based cryptographic schemes.
+
+**Current Research:** Exploring ML optimization techniques for algorithmic trading efficiency and sublinear algorithm design for large-scale data processing.
+
+---
+
+## 🎯 What I'm Working On
+
+### 📚 Winter 2026 @ UC Davis
+
+**Courses:**
+- **Sublinear Algorithms** - Designing efficient algorithms for massive datasets; focusing on optimization problems and computational complexity
+- **Software Engineering** - Building production-grade applications with emphasis on system design, testing, and deployment
+
+**Goals:** 
+- Master algorithm optimization for real-time trading systems
+- Gain hands-on experience building scalable, production-ready software
+- Apply sublinear techniques to financial data processing at scale
+
+### 💡 Current Projects
+
+🔹 **Distributed System Design** - Exploring Kubernetes and microservices architecture for scalable fintech applications  
+🔹 **Algorithm Research** - Applying sublinear algorithm concepts to high-frequency data streams
+
+---
+
+## 🔍 What's Next
+
+📚 **Learning:** Spring Boot • Kubernetes • Sublinear algorithms • Advanced quantitative finance  
+🎯 **Seeking:** Summer 2026 SWE Internships in Fintech, Quant Trading, or Full-Stack roles  
+🌟 **Research Interests:** Algorithmic trading optimization • High-frequency systems • Post-quantum cryptography • Distributed computing  
+💼 **Career Focus:** Building high-performance, scalable financial systems that combine ML with algorithmic efficiency
+
+---
+
 ## 🏆 Achievements
 
 🎓 **4.0 GPA** in Master's program at UC Davis  
@@ -128,34 +166,11 @@ Statistical arbitrage • Algorithmic trading • Time-series forecasting • Ri
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hima-v&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima-v&layout=compact&theme=react&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hima-v&theme=react&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What's Next
-
-💡 **Currently Building:** ML-powered trading algorithms & full-stack fintech applications  
-📚 **Learning:** Spring Boot • Kubernetes • Advanced quantitative finance  
-🔍 **Seeking:** Summer 2026 SWE Internships in Fintech, Quant Trading, or Full-Stack roles  
-🌟 **Interested in:** High-frequency trading • Risk modeling • Scalable distributed systems
-
----
-
 ## 📬 Open to Opportunities
 
 ✅ Software Engineering Internships (Summer 2026)  
 ✅ Quantitative Trading & Algorithmic Finance  
-✅ Full-Stack Development (Fintech preferred)  
+✅ Full-Stack Development  
 ✅ ML Engineering & Data Science
 
 **Available:** June - September 2026 | **Location:** Open to relocation (SF Bay Area, NYC, Remote)
@@ -166,6 +181,6 @@ Statistical arbitrage • Algorithmic trading • Time-series forecasting • Ri
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hima-v&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*"Building the future of finance, one algorithm at a time"* 💹
+*"Building the future of computer science, one algorithm at a time"* 💹
 
 </div>
