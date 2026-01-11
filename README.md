@@ -147,8 +147,7 @@ Evaluated NIST-shortlisted PQC algorithms (Falcon, Kyber, Dilithium, Sphincs) fo
 
 ## 🏆 Achievements
 
-🎓 **4.0 GPA** in Master's program at UC Davis  
-💻 **Top 5%** in competitive programming contests (Codeforces, CodeChef)  
+🎓 **4.0 GPA** in Master's program at UC Davis   
 📈 **646% return** on algorithmic trading strategy backtest  
 👥 **500+ users** served by production web applications  
 🏅 **30% engagement increase** through interactive platform design
